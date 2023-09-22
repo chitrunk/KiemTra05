@@ -5,4 +5,12 @@ yêu cầu: - Viết 3 hàm: Nhập, xuất, Tìm số CP cuối cùng (có th�
                 + Nhập 1: Tìm và In ra số CP cuối cùng
                 + Nhập 2: Xuất mảng
   Yêu cầu Nộp Bài: 
-    + đang update vài phút nữa có
+    + Mỗi SV tạo 1 Branch tên : Mã Số Sinh Viên của mình, Source là nhánh main
+    + Upload 2 Hình vào Branch của mình: Hình code nếu nhiều thì 2,3 hình (có minh chứng bài của mình như tên file or Chú thích,...), 
+                                         Hình chạy chương trình Terminal (chạy được sẽ có tên máy mình ngồi)
+    Lưu ý: ko chạy được or có code ko chạy dc, ... cũng phải có file upload lên branch của mình để lấy 5đ upload
+           ai làm sai qui định upload như sai tên branch, upload sai, ko có upload gì,... sẽ bị trừ điểm nội dung 5đ phần GitHub
+
+Bài kiểm tra chia 2 nội dung: 5đ lập trình C, 5đ GitHub
+......
+
