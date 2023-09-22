@@ -3,5 +3,5 @@ Nhóm kiểm tra của lớp PTPMNM 05
 <<<<<<< HEAD
 zzzzzzzz
 =======
-Hiền Đẹp Trai
+Hiền
 >>>>>>> daviptuan-patch-1
