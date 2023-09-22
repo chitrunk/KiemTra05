@@ -1,1 +1,8 @@
-Viết chương trình....
+Viết chương trình Tìm số Chính Phương cuối cùng xuất hiện trong mảng 1 chiều a có n phần tử.
+yêu cầu: - Viết 3 hàm: Nhập, xuất, Tìm số CP cuối cùng (có thể có hàm nhỏ hơn)
+          - Hàm Main:
+                    Sau khi Gọi Hàm Nhập mảng, cho phép người dùng Chọn 2 chức năng: 
+                + Nhập 1: Tìm và In ra số CP cuối cùng
+                + Nhập 2: Xuất mảng
+  Yêu cầu Nộp Bài: 
+    + đang update vài phút nữa có
